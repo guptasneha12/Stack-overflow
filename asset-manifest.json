@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Stack-overflow/static/css/main.1652833a.css",
+    "main.js": "/Stack-overflow/static/js/main.96eee732.js",
+    "static/media/Globe.png": "/Stack-overflow/static/media/Globe.68ab9420725716ff25b9.png",
+    "index.html": "/Stack-overflow/index.html",
+    "static/media/pen-solid.svg": "/Stack-overflow/static/media/pen-solid.3e867354f169d8553a3d58662a2c0ce1.svg",
+    "static/media/magnifying-glass-solid.svg": "/Stack-overflow/static/media/magnifying-glass-solid.6d5ef3dedce5936774892ecc516286be.svg",
+    "static/media/stack-overflow.svg": "/Stack-overflow/static/media/stack-overflow.265a72d52fa82dac73f3988e8a0fc04a.svg",
+    "static/media/message-solid.svg": "/Stack-overflow/static/media/message-solid.f2e7cb30d001339b1625ecae74a70b16.svg",
+    "static/media/sort-down-solid.svg": "/Stack-overflow/static/media/sort-down-solid.a56f3c026971e14cc010cd9566e30628.svg",
+    "static/media/sort-up-solid.svg": "/Stack-overflow/static/media/sort-up-solid.9b0e12842851a9dbb983aecf4885f571.svg",
+    "main.1652833a.css.map": "/Stack-overflow/static/css/main.1652833a.css.map",
+    "main.96eee732.js.map": "/Stack-overflow/static/js/main.96eee732.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1652833a.css",
+    "static/js/main.96eee732.js"
+  ]
+}
