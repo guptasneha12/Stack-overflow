@@ -20,12 +20,6 @@ export const getAllUsers=async (req,res)=>{
         res.status(404).json({ message: error.message });
       }
     };
-    
-
-
-
-
-
 
     export const updateProfile = async (req, res) => {
       const { id: _id } = req.params;

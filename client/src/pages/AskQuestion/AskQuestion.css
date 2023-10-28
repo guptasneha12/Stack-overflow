@@ -1,5 +1,6 @@
 .ask-question{
-    min-height: 100vh;
+    /* min-height: 100vh; */
+    min-height: 80vh;
     background-color: #f1f2f3;
 
 }
@@ -7,13 +8,14 @@
 .ask-ques-container{
     margin: auto;
     max-width:1200px;
+    padding: 0px 20px 20px 20px;
    
     
 }
 
 
 .ask-ques-container h1{
-    padding: 70px 0px 0px 0px;
+    padding: 80px 0px 0px 0px;
 }
 
 .ask-ques-container form .ask-form-container{

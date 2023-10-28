@@ -3,7 +3,7 @@ import axios from 'axios';
 
 
 // here we provide backend URL and send request to backend
-const API =axios.create({baseURL:"http://localhost:5000"})
+const API =axios.create({baseURL:"https://stack-overflow-server-teze.onrender.com"})
 
 API.interceptors.request.use((req)=>{
     if(localStorage.getItem('Profile')){
